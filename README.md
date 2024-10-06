@@ -94,7 +94,7 @@ WHERE [RANK] = 1
 AND MONTH(actiondate) IN (1, 2, 3)
 GROUP BY MONTH(actiondate);
 
-``
+```
 
 **RESULT**
 
